@@ -91,8 +91,8 @@ The complete table is in [`results/full_results.csv`](results/full_results.csv).
 Requires R with `ggplot2`. Tested with R 4.5.3.
 
 ```bash
-git clone https://github.com/Vitor-Dias-Ferreira/simulacao_modelo_gama.git
-cd simulacao_modelo_gama
+git clone https://github.com/Vitor-Dias-Ferreira/gamma_model_simulation.git
+cd gamma_model_simulation
 Rscript src/gamma_simulation.R
 ```
 
